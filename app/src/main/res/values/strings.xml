@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Surprise</string>
+    <string name="Surprise">Surprise</string>
+
+    <string name="Surprise_off">Surprise is off</string>
+    <string name="Surprise_on">Surprise is on</string>
+    <string name="Info">Info</string>
+    <string name="su_surprise">su -> surprise</string>
+    <string name="Surprise_failed">Surprise failed</string>
+    <string name="Exit_code_output">Exit code: “%1$d”, output: “%2$s”</string>
+
+    <string name="Success">Success</string>
+
+    <string name="Info_surprise">When you enable surprise, it will try to copy “surprise” binary to “su” and will execute this on every boot. Enable surprise only once and you can forget about it.</string>
+    <string name="Info_upgrade">This will copy “su” binary to “surprise”. This will be executed only once every time you press. It is useful after you upgraded your “su” binary.</string>
+
+</resources>
